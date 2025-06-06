@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Chroma vector database (if it ever reappears)
+chroma_db/
+
+# KB index file (if you generate one again)
+kb_index
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+
+# macOS Finder metadata
+.DS_Store
+
